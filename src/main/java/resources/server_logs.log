@@ -1,0 +1,18 @@
+2023-09-06T05:33:45.685045600[SERVER]: Server is running. Waiting for connections
+2023-09-06T05:34:42.050647700[SERVER]: Server is running. Waiting for connections
+2023-09-06T05:34:47.357176200[SERVER]: New connection accepted. Port: 65299 
+
+2023-09-06T05:34:52.796047100[SERVER]: New connection accepted. Port: 65304 
+
+2023-09-06T05:35:00.683317600[Javaslavskiy]: New user on server. Port: 65304
+2023-09-06T05:35:10.896622100[Slava]: New user on server. Port: 65299
+2023-09-06T05:35:36.472855500[Slava]: Send message: Javaslavskiy, are u here?
+2023-09-06T05:35:56.348928300[Javaslavskiy]: Send message: Yes, Slava, i am here
+2023-09-06T05:36:23.870100500[Slava]: Send message: OK, bye Javaslavskiy
+2023-09-06T05:36:41.650911300[Javaslavskiy]: Send message: Goodluck, Slava
+2023-09-06T05:36:44.759458[Javaslavskiy]: Send message: /exit
+2023-09-06T05:36:44.761458[SERVER]: User Javaslavskiy (Port: 65304) was disconnected 
+
+2023-09-06T05:36:49.446920300[Slava]: Send message: /exit
+2023-09-06T05:36:49.447921600[SERVER]: User Slava (Port: 65299) was disconnected 
+
